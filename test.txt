@@ -1,0 +1,1 @@
+$dbn = 'mysql:dbname=gsacf_d06_11;charset=utf8;port=3306;host=localhost';
